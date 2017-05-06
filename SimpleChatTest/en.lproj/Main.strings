@@ -1,0 +1,45 @@
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "3Hy-TC-xOM"; */
+"3Hy-TC-xOM.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Text message"; ObjectID = "77U-5F-KvS"; */
+"77U-5F-KvS.placeholder" = "Text message";
+
+/* Class = "UILabel"; text = "Hi!"; ObjectID = "B8A-sf-Gh6"; */
+"B8A-sf-Gh6.text" = "Hi!";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "Fqg-8o-ZiQ"; */
+"Fqg-8o-ZiQ.normalTitle" = "Register";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "HgW-Gt-kwd"; */
+"HgW-Gt-kwd.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "TaN-23-Q4t"; */
+"TaN-23-Q4t.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Gui"; ObjectID = "UaJ-jk-jHd"; */
+"UaJ-jk-jHd.normalTitle" = "Gui";
+
+/* Class = "UITextField"; placeholder = "Your Email"; ObjectID = "Uic-Zf-o7k"; */
+"Uic-Zf-o7k.placeholder" = "Your Email";
+
+/* Class = "UITextField"; placeholder = "Your Password"; ObjectID = "XVE-UH-H6E"; */
+"XVE-UH-H6E.placeholder" = "Your Password";
+
+/* Class = "UILabel"; text = "Hello!"; ObjectID = "ceH-bK-WIU"; */
+"ceH-bK-WIU.text" = "Hello!";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "gmL-8G-gNz"; */
+"gmL-8G-gNz.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "i7k-F0-s0f"; */
+"i7k-F0-s0f.normalTitle" = "Forgot Password?";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "oal-tX-8j8"; */
+"oal-tX-8j8.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "p2t-Nk-kdg"; */
+"p2t-Nk-kdg.text" = "Username";
+
+/* Class = "UITextField"; placeholder = "Your Fullname"; ObjectID = "zpG-P4-rKU"; */
+"zpG-P4-rKU.placeholder" = "Your Fullname";
